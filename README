@@ -1,0 +1,22 @@
+# ddaw-ud6-proyecto-git
+
+Repositorio de prueba utilizado para la práctica de la Unidad Didáctica 6 del módulo Despliegue de Aplicaciones Web.
+
+El objetivo del repositorio es comprobar el uso básico de Git en GNU/Linux, incluyendo la creación de un repositorio local, la realización de commits, la conexión con GitHub, el envío de cambios mediante `git push` y la descarga de cambios remotos mediante `git pull`.
+
+## Archivos incluidos
+
+- `archivo1.txt`: archivo utilizado para comprobar modificaciones locales y subida de cambios.
+- `archivo2.txt`: archivo utilizado para comprobar cambios realizados desde GitHub y descargados con `git pull`.
+- `archivo3.txt`: archivo de prueba incluido en el primer commit.
+
+## Comandos principales utilizados
+
+```bash
+git init
+git status
+git add .
+git commit -m "Primer commit"
+git push
+git pull
+git log --oneline```
